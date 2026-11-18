@@ -195,7 +195,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*PEAK · Updated 2026-11-17 · Shared under the MIT License*
+*PEAK · Updated 2026-11-18 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-17*
+*Last updated: 2026-11-18*
